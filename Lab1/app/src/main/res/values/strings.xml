@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">Lab1</string>
+        <string name="helloWorld">Hello World App</string>
+        <string name="button">Press Me</string>
+        <array name="names">
+                <item>Amir</item>
+                <item>Battani</item>
+                <item>Kevin</item>
+                <item>Jonny</item>
+                <item>Mason</item>
+        </array>
+</resources>
